@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+     height: 100vh;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+}
+#num{
+    text-align: center;
+    color: white;
+}
+#container{
+ height: 300px;
+  width: 300px;
+    background-color: darkred;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  border: black solid 5px;
+
+}
+.btn
+{ width: 60px;
+    height: 60px;
+
+}
